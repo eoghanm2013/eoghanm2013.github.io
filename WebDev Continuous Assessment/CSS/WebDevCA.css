@@ -1,0 +1,419 @@
+body {
+  background-image: url("../Assets/Images/background.jpg");
+  background-size:cover;
+  
+}
+  
+
+
+#history img {
+  max-width: 80%;
+  max-height: 50vh;
+  margin-left: 5vw;
+ border: 2px #a38a05 solid;
+}
+  
+  
+
+#history p {
+  padding-left: 2vw;
+  padding-right: 2vw;
+  
+}
+
+#history {
+  margin-left: 6.5vw;
+  border: 2px #a38a05 solid;
+  margin-right: 6.5vw;
+  background-color: antiquewhite;
+  margin-bottom: 3vh;
+  
+    
+}
+
+#history h3 {
+  
+  border: 2px #a38a05 solid;
+  text-align: center;
+  background-color:white;
+  color: #7c4040;
+  margin-right: 5vw;
+  margin-left: 5vw;
+  
+  
+}
+
+
+
+
+#cover {
+  height: 55vh;
+  width: 100%;
+  border-bottom: 3px black solid;
+} 
+
+
+div h1 {
+  color: #7c4040;
+  font-size: 50px;
+  font-family: serif;
+  text-align: center;
+  margin-top: 1px;
+
+}
+
+nav li {
+  display: inline;
+  float: none;
+ 
+
+}
+nav li:last-child {
+  border-right: none;
+  
+
+}
+nav { 
+
+margin: auto;
+
+}
+
+
+
+
+
+
+body {
+  background-color: #FFFFFF;
+  margin: 0px;
+  padding: 0px;
+
+}
+
+#Main {
+  width: 70%;
+  margin: auto;
+  background-color: #936565;
+  border: 3px black solid; 
+  min-height: 600px;
+  margin-bottom: 10px;
+}
+
+header {
+  text-align: center;
+  background-color: white;
+
+
+
+
+}
+
+footer {
+  text-align: center;
+  background-color: rosybrown;
+  padding: 5px;
+  color: white;
+  vertical-align: baseline;
+ 
+
+}
+
+ul {
+  list-style-type: none;
+  border: 1px black solid;
+
+  padding: 2vh;
+  overflow: hidden;
+  background-color: rosybrown;
+}
+
+.textWithImage p {
+  display:inline-block;
+  vertical-align:top;
+  width: 50%;
+  margin-left: 5vw
+
+}
+
+.textWithImage img {
+  margin: 10px;
+  display: inline-block;
+  border-radius : 50%;
+  width: 16vh;
+  height: 16vh;
+  border: 1px black solid;
+
+
+
+
+}
+.textWithImage {
+  margin-right: 10vw;
+  border: 2px black solid;
+  margin-left: 10vw;
+  background-color: antiquewhite;
+  margin-bottom: 4vh;
+  
+
+
+}
+
+#Content h2 {
+  text-align: center;
+  background-color: antiquewhite;
+  width: 30%;
+  border: 2px black solid;
+  margin: auto;
+  margin-top: 2vh;
+  margin-bottom: 1vh;
+}
+
+aside img {
+  height: 50vh;
+  border: 2px black solid;
+  margin-left: 13vw;
+  margin-right: 10vw;
+  width: 40vw;
+  margin-bottom: 4vh
+}
+
+#logo {
+
+}
+#news p {
+  margin-right: 10vw;
+  border: 2px black solid;
+  margin-left: 10vw;
+  background-color: antiquewhite;
+  margin-bottom: 4vh;
+  padding: 4vh;
+
+
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  
+
+}
+
+
+li a {
+  display:inline;
+  width:100%;
+  text-decoration: none;
+
+}
+
+
+
+a{
+  padding: 3.76vw;
+  background-color: rosybrown;
+
+
+}
+
+li a:hover {
+  background-color: rgba(255, 255, 255, 0.13);
+} 
+
+#Sponsors h1{
+  border: 2px #d18226 solid;
+  color: whitesmoke;
+  background-color: #5eb0f8;
+  width: 60%;
+  margin-left: 13vw;
+  margin-top: 3vh;
+}
+
+#Sponsors p {
+  border: 2px black solid;
+  background-color: rgba(210, 236, 255, 0.94);
+  width: 75%;
+  margin-left: 5vw;
+  padding: 2.5vw;
+    
+}
+
+#Sponsors iframe{
+  border: 1.5px black solid;
+  background-color: rgba(210, 236, 255, 0.94);
+  width: 57%;
+  margin-left: 13vw;
+  padding: 1vw;
+  min-height: 45vh;
+  
+}
+
+
+#Sponsors h2{
+  border: 1px #d18226 solid;
+  color: whitesmoke;
+  background-color: #5eb0f8;
+  width: 60%;
+  margin-left: 13vw;
+  margin-top: 3vh;
+  
+}
+
+#envalogo {
+  display:inline-block;
+  vertical-align:top;
+  border: 0px #062079 solid;
+  background-color:  rgba(210, 236, 255, 0.94);
+  color: rgba(37, 85, 193, 0.85);
+  padding: 1vh;
+  margin-left: 10vw;
+  font-size: 35px;
+}
+
+#enva h1{
+  color: rgba(37, 85, 193, 0.85);
+  background-color:  rgba(210, 236, 255, 0.94);
+  margin-top: 5vh;
+  font-size: 80px; 
+  width: 90%;
+  margin-left: 3vw;
+  border: 2px #062079 solid;
+  
+}
+
+.services {
+  border: 2px #062079 solid;
+  color: rgba(37, 85, 193, 0.85);
+  background-color:  rgba(210, 236, 255, 0.94);
+  margin: 5vw;
+  
+}
+
+#hazard {
+  display: inline-block;
+    width: 32%;
+  border: 0px black solid;
+  margin-left: .8vw;
+}
+#water {
+  display: inline-block;
+  width: 32%;
+  border: 0px black solid;
+  vertical-align: top
+}
+#lab {
+  display: inline-block;
+  width: 32%;
+  vertical-align: top;
+  border: 0px black solid;
+}
+
+.services li { 
+font-size: 24px;
+}
+
+#envahead  {
+
+ margin-left: 2vw;
+ text-align: center;
+ color: black
+ }
+
+#txtimg {
+  background-color:  rgba(210, 236, 255, 0.94);
+  border: 2px black solid;
+  margin-left: 4vw;
+  margin-right: 4vw;
+  padding-left: 5vw;
+  
+}
+
+#top {
+  background-color: cadetblue
+}
+
+#table table { 
+  background-color: antiquewhite;
+  margin: auto;
+  margin-bottom: 4vh;
+}
+
+#table h2 {
+  border: 2px cadetblue solid;
+  width: 60%;
+  background-color: antiquewhite;
+  margin: auto;
+  padding: 2vh;
+  margin-top: 4vh;
+  margin-bottom: 2vh;
+  
+}
+
+#aboutHead {
+	background-color: white;
+	border: 2px solid #a38a05;
+	width: 30%;
+	margin:auto;
+	color:#7c4040 ;
+	margin-top: 3vh;
+}
+
+#java {
+	border: 2px black solid;
+	background-color: whitesmoke;
+	width: 80%;
+	margin:auto;
+	margin-top: 4vh;
+	padding-left: 5vw;
+	padding-bottom: 4vh;
+	margin-bottom: 4vh;
+}
+
+#java form {
+	margin-top: 7vh;
+}
+
+
+
+#contactInfo label {
+	float: left;
+	width: 6vw;
+
+}
+
+
+
+
+#introForm {
+	margin-right: 5vw;
+	border: 1px black solid;
+	background-color: antiquewhite;
+	padding-left:2vw;
+	padding-left:2vw;
+}
+
+#enva h1 {
+	width: 30%;
+	margin:auto;
+	margin-bottom: 4vh;
+	margin-top: 4vh;
+}
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
